@@ -1,0 +1,11 @@
+*.txt
+*.jpg
+*.pcd
+*.bin
+*.csv
+*.dll
+.vs
+x64\Release
+x64\Debug
+Release
+Debug
