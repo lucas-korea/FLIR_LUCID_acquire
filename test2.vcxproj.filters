@@ -30,6 +30,9 @@
     <ClCompile Include="FLIR+LUCID_ver2.2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FLIR only.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">

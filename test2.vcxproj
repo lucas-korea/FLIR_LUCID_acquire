@@ -132,6 +132,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FLIR only.cpp" />
     <ClCompile Include="FLIR+LUCID_ver2.1.cpp" />
     <ClCompile Include="FLIR+LUCID_ver2.2.cpp" />
     <ClCompile Include="FLIR+LUCID_ver2.cpp" />
