@@ -1,4 +1,5 @@
- 
+<center>취득 프로그램을 이용한 취득 장면</center>
+
 ## 버전 정보 
 - [Arena sdk](https://thinklucid.com/downloads-hub/) 1.0.36.7  
 - [Spinnaker](https://www.flirkorea.com/products/spinnaker-sdk/?vertical=machine+vision&segment=iis) 2.3.0.77  
@@ -53,11 +54,12 @@
 #### RunMultipleCameras  
  - 카메라 취득, 모니터링 함수들의 쓰레드를 관리하고 시작하는 중요 함수  
   
+<p align="center">
+	<img src="https://github.com/lucas-korea/FLIR_LUCID_acquire/assets/57425658/6578ca78-78d5-4024-9487-01b426f041db"  width="300" height="170">
+	<em>취득 프로그램 동작 장면</em>
+<p>
 
-<center><img src="https://github.com/lucas-korea/FLIR_LUCID_acquire/assets/57425658/6578ca78-78d5-4024-9487-01b426f041db" width="300" height="170"></center>  
-<center>취득 프로그램 동작 장면</center>
-
-
- <center><img src="https://github.com/lucas-korea/FLIR_LUCID_acquire/assets/57425658/2bf5a78e-8b37-44ab-87b9-e36c3297f125" width="300" height="170"></center>  
-<center>취득 프로그램을 이용한 취득 장면</center>
-
+<p align="center">
+	<img src="https://github.com/lucas-korea/FLIR_LUCID_acquire/assets/57425658/2bf5a78e-8b37-44ab-87b9-e36c3297f125"  width="300" height="170">
+	<em>취득 프로그램을 이용한 취득 장면</em>
+<p>
