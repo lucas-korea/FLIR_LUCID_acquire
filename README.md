@@ -36,9 +36,11 @@
  - 취득될 카메라 데이터, 로그파일을 생성
  ***
 #### getCurrentDateTime 
+```string getCurrentDateTime()```
  - log 파일 및 파일명에 사용할 현재날짜 불러오기
  *** 
 #### getTimeStamp  
+```auto getTimeStamp()```
  - log 파일 및 파일명에 사용할 현재날짜 불러오기
  ***
 #### ImageRotateInner  
@@ -46,14 +48,19 @@
  - 이미지를 뒤집어 주는 함수(장착 이슈로 카메라가 거꾸로 되어있음)
   ***
 #### MonitoringThread 
+```DWORD WINAPI MonitoringThread(LPVOID lpParam)```
  - 카메라 취득을 확인하기 위한 카메라 데이터 실시간 뷰어   - window api thread로 구현
  ***
 #### readconfig  
+```int readconfig()```
  - 카메라 시동 전 설정하기 위한 myconfig.txt 파일을 읽어 설정 값을 변수에 저장
  ***
-#### RunMultipleCameras  
+#### RunMultipleCameras 
+```int RunMultipleCameras(Spinnaker::CameraList camList, std::vector<Arena::DeviceInfo> deviceInfos, Arena::IDevice* pDevice)``` 
  - 카메라 취득, 모니터링 함수들의 쓰레드를 관리하고 시작하는 중요 함수  
-  
+***
+ ***
+
 <p align="center">
 	<img src="https://github.com/lucas-korea/FLIR_LUCID_acquire/assets/57425658/6578ca78-78d5-4024-9487-01b426f041db"  width="300" height="170">
 	<em>취득 프로그램 동작 장면</em>
