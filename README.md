@@ -63,10 +63,14 @@
 
 <p align="center">
 	<img src="https://github.com/lucas-korea/FLIR_LUCID_acquire/assets/57425658/6578ca78-78d5-4024-9487-01b426f041db"  width="300" height="170">
-	<em>취득 프로그램 동작 장면</em>
 <p>
+<p align="center" style="color:gray">
+취득 프로그램 동작 장면 
+</p>
 
 <p align="center">
 	<img src="https://github.com/lucas-korea/FLIR_LUCID_acquire/assets/57425658/2bf5a78e-8b37-44ab-87b9-e36c3297f125"  width="300" height="170">
-	<em>취득 프로그램을 이용한 취득 장면</em>
 <p>
+<p align="center" style="color:gray">
+취득 프로그램을 이용한 취득 장면
+</p>
