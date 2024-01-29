@@ -1,4 +1,3 @@
-<center>취득 프로그램을 이용한 취득 장면</center>
 
 ## 버전 정보 
 - [Arena sdk](https://thinklucid.com/downloads-hub/) 1.0.36.7  
@@ -16,7 +15,7 @@
  1. 버전 정보에 해당하는 sdk를 미리 설치해야함  
  2. opencv dll은 해당 폴더에 옮기던지, 참조를 해야함  
  3. FLIR, LUCID 카메라가 연결되어 있어야 함 (없어도 동작은 됨)
- 4. test2.sln 파일을 열어 run, 혹은 동봉된 test2.exe 파일을 실행
+ 4. acquisition_polarcam.sln 파일을 열어 run
 
 ## 함수 설명
 
@@ -73,4 +72,11 @@
 <p>
 <p align="center" style="color:gray">
 취득 프로그램을 이용한 취득 장면
+</p>
+
+<p align="center">
+	<img src="https://github.com/lucas-korea/FLIR_LUCID_acquire/assets/57425658/f42de517-bee8-4272-9a89-9a51d7deef31"  width="380" height="270">
+<p>
+<p align="center" style="color:gray">
+편광카메라 각도별 이미지 
 </p>

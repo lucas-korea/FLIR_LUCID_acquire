@@ -3,7 +3,6 @@
 
 #include "Spinnaker.h"
 #include "SpinGenApi/SpinnakerGenApi.h"
-#include "stdafx.h"
 #include "ArenaApi.h"
 #include "SaveApi.h"
 #include <iostream>
